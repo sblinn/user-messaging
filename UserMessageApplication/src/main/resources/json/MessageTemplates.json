@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "message": "::timezoneGreeting:: ::guest.firstName:: ::guest.lastName::, and welcome to ::company.company:: of ::company.city::! Your reservation begins at ::reservation.startTimestamp:: and ends on ::reservation.endTimestamp::."
+    }, 
+    {
+        "id": 2,
+        "message": "::timezoneGreeting:: ::guest.firstName::, your room ::reservation.roomNumber:: is available now."
+    }
+]
